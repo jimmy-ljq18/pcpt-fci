@@ -1,7 +1,9 @@
 # PCPT-FCI
- This work is about mining frequent closed itemsets in data stream.
+This work is about mining frequent closed itemsets in data stream.
  
- The related paper will be published soon.
+The related paper will be published soon.
+
+-------------------------------------------------------------------------------
 
 The executable file for PCPT-FCI algorithm:
 
@@ -18,7 +20,9 @@ Format of dataset：
 Line 1 only contains the number of transactions, and other lines are as follow:  
 
 the length_of_transaction    item_id_1   ...   item_id_n
+
                 ......
+                
 the length_of_transaction    item_id_1   ...   item_id_n
 
 -------------------------------------------------------------------------------
