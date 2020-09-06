@@ -4,6 +4,7 @@
  The related paper will be published soon.
 
 The executable file for PCPT-FCI algorithm:
+
 PCPT-FCI.exe was compiled by Microsoft Visual Studio 2010， runable in windows.
 
 PCPT-FCI was compiled with g++ (GCC) 4.8.5 20150623 (Red Hat 4.8.5-28)， runable in Linux.
@@ -28,9 +29,13 @@ PCPT-FCI.exe WINDOW_SIZE MINSUP INPUTFILE OUTPUTFILE SLIDING_NUMBER
 
 where:
 WINDOW_SIZE ：the sliding window size 
+
 MINSUP ：the minimum support (as integer)
+
 INPUTFILE ：name of input file
+
 OUTPUTFILE ：name of output file
+
 SLIDING_NUMBER：number of sliding
 
 example：
