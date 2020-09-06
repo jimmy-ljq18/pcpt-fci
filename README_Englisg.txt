@@ -1,4 +1,13 @@
-The executable file for PCPT-FCI algorithm named PCPT-FCI.exe was compiled by Microsoft Visual Studio 2010
+This work is about mining frequent closed itemsets in data stream.
+
+The related paper will be published soon.
+
+-------------------------------------------------------------------------------
+
+The executable file for PCPT-FCI algorithm:
+PCPT-FCI.exe was compiled by Microsoft Visual Studio 2010， runable in windows.
+
+PCPT-FCI was compiled with g++ (GCC) 4.8.5 20150623 (Red Hat 4.8.5-28)， runable in Linux.
 
 -------------------------------------------------------------------------------
 

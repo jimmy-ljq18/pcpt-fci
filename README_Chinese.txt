@@ -1,4 +1,7 @@
-算法可执行文件为PCPT-FCI.exe， 使用Microsoft Visual Studio 2010编译
+算法可执行文件PCPT-FCI.exe， 使用Microsoft Visual Studio 2010编译，可在window下运行
+
+算法可执行文件PCPT-FCI， 使用g++ (GCC) 4.8.5 20150623 (Red Hat 4.8.5-28)编译，可在Linux下运行
+
 
 -------------------------------------------------------------------------------
 
