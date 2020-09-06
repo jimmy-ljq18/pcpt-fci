@@ -32,6 +32,7 @@ Usage by commandline：
 PCPT-FCI.exe WINDOW_SIZE MINSUP INPUTFILE OUTPUTFILE SLIDING_NUMBER
 
 where:
+
 WINDOW_SIZE ：the sliding window size 
 
 MINSUP ：the minimum support (as integer)
